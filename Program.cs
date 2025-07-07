@@ -9,6 +9,7 @@
 
             AddOp addOp = new AddOp();
             addOp.Add(10, 20);
+            addOp.Add(20, 30, 40); //addition of three numbers
         }
     }
 }

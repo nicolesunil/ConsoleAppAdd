@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3C4980F-A14F-4146-8D75-8DC242EFEDBE}|ConsoleAddition.csproj|c:\\users\\nicole.sunil\\source\\repos\\consoleaddition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3C4980F-A14F-4146-8D75-8DC242EFEDBE}|ConsoleAddition.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C4980F-A14F-4146-8D75-8DC242EFEDBE}|ConsoleAddition.csproj|c:\\users\\nicole.sunil\\source\\repos\\consoleaddition\\addop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C4980F-A14F-4146-8D75-8DC242EFEDBE}|ConsoleAddition.csproj|solutionrelative:addop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOp.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.sunil\\source\\repos\\ConsoleAddition\\AddOp.cs",
+              "RelativeDocumentMoniker": "AddOp.cs",
+              "ToolTip": "C:\\Users\\nicole.sunil\\source\\repos\\ConsoleAddition\\AddOp.cs",
+              "RelativeToolTip": "AddOp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:52:38.923Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\nicole.sunil\\source\\repos\\ConsoleAddition\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T10:51:17.952Z",
               "EditorCaption": ""

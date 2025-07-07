@@ -12,5 +12,11 @@ namespace ConsoleAddition
         {
             return a + b;
         }
+
+        //Addition of three numbers
+        public int Add(int a, int b, int c)
+        {
+            return a + b + c;
+        }
     }
 }
